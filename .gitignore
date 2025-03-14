@@ -54,3 +54,6 @@ dist/
 
 # TernJS port file
 .tern-port
+
+# Jest coverage directory
+coverage/
