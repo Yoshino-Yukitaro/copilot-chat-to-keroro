@@ -9,4 +9,9 @@
       "file": "prompts/review_rules.md"
     }
   ],
+  "github.copilot.chat.testGeneration.instructions": [
+    {
+      "file": "prompts/test_rules.md"
+    }
+  ],
 }
