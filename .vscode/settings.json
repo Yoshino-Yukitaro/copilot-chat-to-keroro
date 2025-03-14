@@ -3,5 +3,10 @@
     {
       "file": "prompts/commit_rules.md" 
     }
-  ]
+  ],
+  "github.copilot.chat.reviewSelection.instructions": [
+    {
+      "file": "prompts/review_rules.md"
+    }
+  ],
 }
