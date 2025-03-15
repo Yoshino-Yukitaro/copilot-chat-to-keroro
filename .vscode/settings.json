@@ -14,4 +14,9 @@
       "file": "prompts/test_rules.md"
     }
   ],
+  "github.copilot.chat.pullRequestDescriptionGeneration.instructions": [
+    {
+      "file": "prompts/pr_rules.md"
+    }
+  ]
 }
