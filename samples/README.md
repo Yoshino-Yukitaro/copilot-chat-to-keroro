@@ -1,0 +1,1 @@
+github copilot chatをケロロ軍曹にするための検証です
